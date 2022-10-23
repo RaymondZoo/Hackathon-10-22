@@ -1942,7 +1942,7 @@ form .form-control:focus {
 }
 
 .contact-form-wrapper .contact-information {
-    background: #2584ba;
+    background: #20a73f;
     height: 100%;
     padding: 45px 60px;
     color: #ffffff;
@@ -2030,108 +2030,6 @@ footer a:hover {
 
 
 
-
-/*-- 18. verticaly centered modal css 
---------------------------------------- --*/
-
-.verticl-center-modal {
-    text-align: center;
-    padding: 0!important;
-}
-
-.verticl-center-modal:before {
-    content: '';
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
-    margin-right: -4px;
-}
-
-.verticl-center-modal .modal-dialog {
-    display: inline-block;
-    text-align: left;
-    vertical-align: middle;
-}
-
-#getAQuoteModal h3 {
-    margin-top: 0;
-}
-
-#getAQuoteModal .btn {
-    margin-top: 30px;
-    width: 100%;
-}
-
-#getAQuoteModal .modal-dialog {
-    width: 830px;
-}
-
-#getAQuoteModal .contact-info-box {
-    border: 1px solid #d5d5d5;
-    max-width: 360px;
-    padding: 25px 22px;
-    margin-bottom: 20px;
-}
-
-#getAQuoteModal .contact-info-box span {
-    font-size: 36px;
-    display: inline-block;
-    padding-right: 25px;
-    border-right: 1px solid #d5d5d5;
-    color: #90c404;
-    line-height: 50px;
-}
-
-#getAQuoteModal .contact-info-box span.icon-envelope {
-    font-size: 40px;
-}
-
-#getAQuoteModal .contact-info-box>div {
-    display: inline-block;
-    margin-left: 21px;
-}
-
-#getAQuoteModal .contact-info-box h6 {
-    margin: 0;
-    font-size: 24px;
-    font-weight: 600;
-    color: #606060;
-}
-
-#getAQuoteModal .contact-info-box p {
-    margin: 0;
-    font-size: 16px;
-    color: #606060;
-    line-height: 26px;
-}
-
-#getAQuoteModal .contact-info-box-wrapper {
-    margin-top: 42px;
-}
-
-#getAQuoteModal .contact-info-box ul {
-    margin: 0;
-    padding: 0;
-}
-
-#getAQuoteModal .contact-info-box .social-links li {
-    margin-bottom: 0;
-}
-
-#getAQuoteModal .modal-content .list-with-arrow li {
-    padding-left: 23px;
-    position: relative;
-}
-
-#getAQuoteModal .modal-content .list-with-arrow li i {
-    position: absolute;
-    top: 7px;
-    left: 0;
-}
-
-#getAQuoteModal .modal-content .list-with-arrow {
-    margin-bottom: 70px;
-}
 
 
 
